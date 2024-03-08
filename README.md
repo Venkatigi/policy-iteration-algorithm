@@ -88,16 +88,16 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ### Adversarial Policy and its probability success rate:
-![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/20d95563-53ed-4889-bc23-25eb8ac8a4af)
+![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/57a093d2-a516-4988-aba6-646190399e45)
 
-![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/7e4f2bbd-1441-49e1-a9ed-d144948a940b)
+![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/aaeb779a-0bc2-48fc-a1f1-ba57ec996cb5)
 
-![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/d4c4cd36-e059-4f8b-a2a3-db01e9612a54)
+![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/d06781c6-97dc-4722-b454-73f8e161925a)
 
 ### Optimal Policy with Gamma = 0.90 and its probability success rate:
-![](2.PNG)
+![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/6b914065-5e8c-45bb-9837-64ae9d616bb6)
 
-![](3.PNG)
+![image](https://github.com/Venkatigi/policy-iteration-algorithm/assets/94154252/e79d3f55-4049-42ac-a794-77d04171a796)
 
 ## RESULT:
 
